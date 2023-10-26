@@ -3,7 +3,7 @@
         {
             "name": "Mac",
             "includePath": [
-                "${workspaceFolder}/**"
+                "/usr/local/share/verilator/include/"
             ],
             "defines": [],
             "macFrameworkPath": [
